@@ -1,0 +1,35 @@
+ROULANG - LICENCIA DE USO
+Versión 1.0 – 2025  
+Creado por: Brayan Roussel  
+Empresa: ROUSOFT
+
+Este software y su código fuente son de uso libre bajo los siguientes términos:
+
+1. AUTORÍA Y CRÉDITOS  
+   Este lenguaje de programación, llamado **ROULANG**, fue creado por **Brayan Roussel**, bajo la marca **ROUSOFT**.  
+   Toda distribución, modificación o uso del código debe **mantener de forma visible** el reconocimiento a:
+   - El autor original: **Brayan Roussel**
+   - El nombre del lenguaje: **ROULANG**
+   - El nombre de la empresa: **ROUSOFT**
+
+2. PERMISOS  
+   Se permite:
+   - Leer, estudiar y usar el código con fines personales o educativos.
+   - Modificar el código siempre que se mantenga esta licencia y los créditos completos.
+   - Compartir versiones modificadas, siempre indicando que son derivadas de ROULANG y manteniendo los créditos originales.
+
+3. PROHIBICIONES  
+   - **No se permite vender, revender o distribuir con fines comerciales** ninguna parte de este proyecto sin permiso explícito por escrito del autor.  
+   - **No se permite eliminar o modificar los créditos originales**.  
+   - **No se permite renombrar ROULANG ni hacer pasar este lenguaje como una creación propia sin mención a Brayan Roussel y ROUSOFT**.
+
+4. USO COMERCIAL  
+   Para licencias comerciales, colaboraciones, o acuerdos especiales, contactar al autor:
+   **rousoftonline@gmail.com**
+
+5. EXENCIÓN DE RESPONSABILIDAD  
+   Este software se proporciona "tal cual", sin garantías. El autor no se hace responsable de daños derivados del uso del mismo.
+
+---
+
+© 2025 Brayan Roussel – ROUSOFT
