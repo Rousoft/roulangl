@@ -1,0 +1,6 @@
+iniciar</>
+	var nombre = "Hola soy Roussel";
+	
+	imprimir(nombre);
+	
+</>
