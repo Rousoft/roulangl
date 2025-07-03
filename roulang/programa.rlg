@@ -1,0 +1,10 @@
+
+iniciar</>
+	var x = 1.4;
+	var y = 4.2;
+	
+	mutar z = x + y;
+	
+	imprimir(z);
+	
+</>

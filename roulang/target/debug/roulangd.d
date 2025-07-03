@@ -1,0 +1,1 @@
+/home/roussel/Escritorio/roulang/roulang/target/debug/roulangd: /home/roussel/Escritorio/roulang/roulang/src/ast.rs /home/roussel/Escritorio/roulang/roulang/src/interpreter.rs /home/roussel/Escritorio/roulang/roulang/src/lexer.rs /home/roussel/Escritorio/roulang/roulang/src/main.rs /home/roussel/Escritorio/roulang/roulang/src/parser.rs
